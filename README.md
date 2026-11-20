@@ -1,3 +1,32 @@
+# serious-sam-first-encounter-starship-troopers
+## Serious Sam The First Encounter - Starship Troopers Remake
+The Serious Sam engine provides a foundation for recreating the large-scale bug battles of Starship Troopers, taking advantage of its ability to handle hundreds of enemies on screen simultaneously.
+
+## Github Treeview
+[https://treegit.macosxjs.com/?url=igiteam/serious-sam-first-encounter-starship-troopers](https://treegit.macosxjs.com/?url=igiteam/serious-sam-first-encounter-starship-troopers)
+
+## Github Tree Api Direct JSON
+[https://api.github.com/repos/igiteam/serious-sam-first-encounter-starship-troopers/git/trees/main?recursive=1](https://api.github.com/repos/igiteam/serious-sam-first-encounter-starship-troopers/git/trees/main?recursive=1)
+
+[https://www.youtube.com/watch?v=_wNCA26MReg&list=PLb8oNKiUbnjHFB8-UFKrx9w-I10FzopeG]
+
+[![Serious Editor Tutorial - Making an Arena Fight](https://img.youtube.com/vi/wCXfLbyBBiA/maxresdefault.jpg)](https://ytembed.macosxjs.com/?d0NYZkxieUJCaUE)
+
+## WS11WineCX20.0.4 (MacOSX Big Sur 32bit)
+[WS11WineCX20.0.4.tar.7z](https://github.com/vitor251093/porting-kit-engines/releases/download/wineskin/WS11WineCX20.0.4.tar.7z)
+
+[![wine windows games on macosx](https://raw.githubusercontent.com/igiteam/igi1-macbook-3d-workstation/refs/heads/main/wine-engine-config.png)](https://github.com/igiteam/wine_engines)
+
+
+## Reference links
+[https://archive.org/details/SeriousSamTheFirstEncounterUSA](https://archive.org/details/SeriousSamTheFirstEncounterUSA)
+
+[https://archive.org/details/starshiptroopers_202205](https://archive.org/details/starshiptroopers_202205)
+
+[![Starship Troopers 2005](https://raw.githubusercontent.com/igiteam/serious-sam-first-encounter-starship-troopers/refs/heads/main/starship-troopers-2005.jpeg)](https://archive.org/details/starshiptroopers_202205)
+
+[![Serious Sam The First Encounter](https://raw.githubusercontent.com/igiteam/serious-sam-first-encounter-starship-troopers/refs/heads/main/serious-sam-the-first-encounter.jpg)](https://archive.org/details/SeriousSamTheFirstEncounterUSA)
+
 ## Serious Sam Classic
 [![Build status](https://github.com/tx00100xt/SeriousSamClassic/actions/workflows/cibuild.yml/badge.svg)](https://github.com/tx00100xt//SeriousSamClassic/actions/)
 [![License: GPL v2](https://img.shields.io/badge/License-GPL_v2-blue.svg)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
@@ -491,3 +520,39 @@ Some of the code included with the engine sources is not licensed under the GNU 
 [Visual Studio 2015 Community Edition]: https://go.microsoft.com/fwlink/?LinkId=615448&clcid=0x409 "Visual Studio 2015 Community Edition"
 [Windows 10 SDK 10.0.14393.795]: https://go.microsoft.com/fwlink/p/?LinkId=838916 "Windows 10 SDK 10.0.14393.795"
 [Actions tab]: https://github.com/tx00100xt//SeriousSamClassic/actions "Download Artifacts"
+
+
+## Dev Environment
+
+**Official White Wii Remote With Nunchuk — Tested And Working — £14.99**
+[https://www.ebay.co.uk/itm/800847189353](https://www.ebay.co.uk/itm/800847189353)
+
+**Infrared Sensor Bar USB for Wii Emulator Remote Motion Detection Setup — £6.69**
+[https://www.ebay.co.uk/itm/227423830875](https://www.ebay.co.uk/itm/227423830875)
+
+**Apple MacBook Pro Retina 15in (2014) i7 2.8GHz 16GB 1TB SSD GT 750M — £120.30**
+[https://www.ebay.co.uk/itm/800844561513](https://www.ebay.co.uk/itm/800844561513)
+
+**WS11WineCX20.0.4 (Wine engine)**
+[https://igiteam.github.io/wine_engines/](https://igiteam.github.io/wine_engines/)
+
+**Official Genuine Sony PS3 PlayStation 3 DualShock 3 Wireless Controller Black — £19.99**
+[https://www.ebay.co.uk/itm/840031043465](https://www.ebay.co.uk/itm/840031043465)
+
+**Amazon Basics 4K HDMI Cable 3m — 18Gbps High Speed with Ethernet, 4K@60Hz, 2160p — £8.44**
+[https://www.ebay.co.uk/itm/327352257557](https://www.ebay.co.uk/itm/327352257557)
+
+**wiimote_nunchuk_macosx**
+[https://github.com/igiteam/wiimote-nunchuk](https://github.com/igiteam/wiimote-nunchuk)
+
+**xbox360_input_gui_py**
+[https://github.com/igiteam/xbox360_input_gui_py](https://github.com/igiteam/xbox360_input_gui_py)
+
+**logitec_mx_mouse_3_macos**
+[https://github.com/igiteam/logitec_mx_mouse_3_macos](https://github.com/igiteam/logitec_mx_mouse_3_macos)
+
+**igi1-macbook-3d-workstation**
+[https://github.com/igiteam/igi1-macbook-3d-workstation](https://github.com/igiteam/igi1-macbook-3d-workstation)
+
+---
+
