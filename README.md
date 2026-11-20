@@ -8,9 +8,12 @@ The Serious Sam engine provides a foundation for recreating the large-scale bug 
 ## Github Tree Api Direct JSON
 [https://api.github.com/repos/igiteam/serious-sam-first-encounter-starship-troopers/git/trees/main?recursive=1](https://api.github.com/repos/igiteam/serious-sam-first-encounter-starship-troopers/git/trees/main?recursive=1)
 
-[https://www.youtube.com/watch?v=_wNCA26MReg&list=PLb8oNKiUbnjHFB8-UFKrx9w-I10FzopeG]
 
-[![Serious Editor Tutorial - Making an Arena Fight](https://img.youtube.com/vi/wCXfLbyBBiA/maxresdefault.jpg)](https://ytembed.macosxjs.com/?d0NYZkxieUJCaUE)
+## Base of Gameplay
+[https://www.youtube.com/watch?v=_wNCA26MReg&list=PLb8oNKiUbnjHFB8-UFKrx9w-I10FzopeG](https://www.youtube.com/watch?v=_wNCA26MReg&list=PLb8oNKiUbnjHFB8-UFKrx9w-I10FzopeG)
+
+[![Serious Editor Tutorial - Making an Arena Fight](https://img.youtube.com/vi/wCXfLbyBBiA/hqdefault.jpg)](https://ytembed.macosxjs.com/?d0NYZkxieUJCaUE)
+
 
 ## WS11WineCX20.0.4 (MacOSX Big Sur 32bit)
 [WS11WineCX20.0.4.tar.7z](https://github.com/vitor251093/porting-kit-engines/releases/download/wineskin/WS11WineCX20.0.4.tar.7z)
