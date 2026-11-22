@@ -14,6 +14,7 @@ The Serious Sam engine provides a foundation for recreating the large-scale bug 
 
 [![Serious Editor Tutorial - Making an Arena Fight](https://img.youtube.com/vi/wCXfLbyBBiA/hqdefault.jpg)](https://ytembed.macosxjs.com/?d0NYZkxieUJCaUE)
 
+[![Starship Troopers (2005) Full Gameplay HD 60FPS | No Commentary](https://img.youtube.com/vi/R5zPA0zPwhs/maxresdefault.jpg)](https://ytembed.macosxjs.com/?UjV6UEEwelB3aHM)
 
 ## WS11WineCX20.0.4 (MacOSX Big Sur 32bit)
 [WS11WineCX20.0.4.tar.7z](https://github.com/vitor251093/porting-kit-engines/releases/download/wineskin/WS11WineCX20.0.4.tar.7z)
