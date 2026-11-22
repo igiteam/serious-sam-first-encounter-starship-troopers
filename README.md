@@ -14,6 +14,8 @@ The Serious Sam engine provides a foundation for recreating the large-scale bug 
 
 [![Serious Editor Tutorial - Making an Arena Fight](https://img.youtube.com/vi/wCXfLbyBBiA/hqdefault.jpg)](https://ytembed.macosxjs.com/?d0NYZkxieUJCaUE)
 
+[![Serious Sam: The First Encounter - Sam meets his first Beheaded Kamikaze](https://img.youtube.com/vi/_12oD3p7Ev4/maxresdefault.jpg)](https://ytembed.macosxjs.com/?XzEyb0QzcDdFdjQ)
+
 [![Starship Troopers (2005) Full Gameplay HD 60FPS | No Commentary](https://img.youtube.com/vi/R5zPA0zPwhs/maxresdefault.jpg)](https://ytembed.macosxjs.com/?UjV6UEEwelB3aHM)
 
 ## WS11WineCX20.0.4 (MacOSX Big Sur 32bit)
