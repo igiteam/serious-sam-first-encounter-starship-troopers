@@ -1,12 +1,12 @@
-# serious-sam-first-encounter-starship-troopers
-## Serious Sam The First Encounter - Starship Troopers Remake
+# serious-sam-first-encounter-starship-troopers-2005
+## Serious Sam The First Encounter - Starship Troopers 2005 Remake
 The Serious Sam engine provides a foundation for recreating the large-scale bug battles of Starship Troopers, taking advantage of its ability to handle hundreds of enemies on screen simultaneously.
 
 ## Github Treeview
-[https://treegit.macosxjs.com/?url=igiteam/serious-sam-first-encounter-starship-troopers](https://treegit.macosxjs.com/?url=igiteam/serious-sam-first-encounter-starship-troopers)
+[https://treegit.macosxjs.com/?url=igiteam/serious-sam-first-encounter-starship-troopers-2005](https://treegit.macosxjs.com/?url=igiteam/serious-sam-first-encounter-starship-troopers-2005)
 
 ## Github Tree Api Direct JSON
-[https://api.github.com/repos/igiteam/serious-sam-first-encounter-starship-troopers/git/trees/main?recursive=1](https://api.github.com/repos/igiteam/serious-sam-first-encounter-starship-troopers/git/trees/main?recursive=1)
+[https://api.github.com/repos/igiteam/serious-sam-first-encounter-starship-troopers-2005/git/trees/main?recursive=1](https://api.github.com/repos/igiteam/serious-sam-first-encounter-starship-troopers-2005/git/trees/main?recursive=1)
 
 
 ## Base of Gameplay
@@ -29,9 +29,9 @@ The Serious Sam engine provides a foundation for recreating the large-scale bug 
 
 [https://archive.org/details/starshiptroopers_202205](https://archive.org/details/starshiptroopers_202205)
 
-[![Starship Troopers 2005](https://raw.githubusercontent.com/igiteam/serious-sam-first-encounter-starship-troopers/refs/heads/main/starship-troopers-2005.jpeg)](https://archive.org/details/starshiptroopers_202205)
+[![Starship Troopers 2005](https://raw.githubusercontent.com/igiteam/serious-sam-first-encounter-starship-troopers-2005/refs/heads/main/starship-troopers-2005.jpeg)](https://archive.org/details/starshiptroopers_202205)
 
-[![Serious Sam The First Encounter](https://raw.githubusercontent.com/igiteam/serious-sam-first-encounter-starship-troopers/refs/heads/main/serious-sam-the-first-encounter.jpg)](https://archive.org/details/SeriousSamTheFirstEncounterUSA)
+[![Serious Sam The First Encounter](https://raw.githubusercontent.com/igiteam/serious-sam-first-encounter-starship-troopers-2005/refs/heads/main/serious-sam-the-first-encounter.jpg)](https://archive.org/details/SeriousSamTheFirstEncounterUSA)
 
 ## Serious Sam Classic
 [![Build status](https://github.com/tx00100xt/SeriousSamClassic/actions/workflows/cibuild.yml/badge.svg)](https://github.com/tx00100xt//SeriousSamClassic/actions/)
